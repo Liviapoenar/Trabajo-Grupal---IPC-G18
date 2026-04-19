@@ -88,7 +88,7 @@ Variables numéricas que reflejan parámetros clínicos medidos en laboratorio:
 | pcr | Proteína C reactiva (indicador de inflamación) |
 | cpk | Creatina fosfoquinasa (indicador muscular) |
 
-### 6. Variables inmonológicas. 
+### 6. Variables inmunológicas. 
 
 -   *igA:* inmunoglobulina A. 
 -   *igE:* inmunoglobulina E. 
