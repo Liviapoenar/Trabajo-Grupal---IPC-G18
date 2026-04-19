@@ -119,3 +119,7 @@ AQ_LDHA: metabolismo anaeróbico.  |   AQ_IL6, AQ_IL1B, AQ_IL10: interleucinas (
  AQ_SLC2A4: transporte de glucosa. | AQ_IFNG: interferón gamma. | AQ_MAPK1: señalización celular. | AQ_NFE2L2: regulación antioxidante. | AQ_FOXP3: regulación de células T. | AQ_TGFB1: crecimiento celular. | 
  AQ_CPT1A: metabolismo de lípidos. | AQ_TLR3, AQ_TLR4: receptores tipo Toll (inmunidad innata).  | | | | AQ_CCL2, AQ_CCL5: quimiocinas. | 
  AQ_FASN: síntesis de ácidos grasos. | AQ_NFKB1: regulación inflamatoria.| | | | AQ_CCR5: receptor inmunológico. |
+
+
+> [!NOTE]
+> Para más información puede acceder a la siguiente [Carpeta](https://github.com/Liviapoenar/Trabajo-Grupal---IPC-G18/tree/main/scripts).
