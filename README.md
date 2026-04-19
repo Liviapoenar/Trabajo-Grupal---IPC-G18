@@ -120,6 +120,7 @@ AQ_LDHA: metabolismo anaeróbico.  |   AQ_IL6, AQ_IL1B, AQ_IL10: interleucinas (
  AQ_CPT1A: metabolismo de lípidos. | AQ_TLR3, AQ_TLR4: receptores tipo Toll (inmunidad innata).  | | | | AQ_CCL2, AQ_CCL5: quimiocinas. | 
  AQ_FASN: síntesis de ácidos grasos. | AQ_NFKB1: regulación inflamatoria.| | | | AQ_CCR5: receptor inmunológico. |
 
+***
 
 > [!NOTE]
 > Para más información puede acceder a la siguiente [Carpeta](https://github.com/Liviapoenar/Trabajo-Grupal---IPC-G18/tree/main/scripts).
